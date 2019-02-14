@@ -1,0 +1,130 @@
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\bin\Debug\GlockenspielApp.dll
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\bin\Debug\GlockenspielApp.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\bin\Debug\GlockenspielApp.GlockenspielApp.apk
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\bin\Debug\GlockenspielApp.GlockenspielApp-Signed.apk
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\GlockenspielApp.nuget.stamp
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\GlockenspielApp.csprojAssemblyReference.cache
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res.flag
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\GlockenspielApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\GlockenspielApp.dll
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\GlockenspielApp.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\android\bin\GlockenspielApp.GlockenspielApp.apk
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\layout\content_main.xml
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\values\colors.xml
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\values\dimens.xml
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\values\strings.xml
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\values\styles.xml
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\menu\menu_main.xml
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\R.cs.flag
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\R.txt
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\uploadflags.txt
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\bin\Debug\Mono.Android.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\bin\Debug\mscorlib.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\bin\Debug\System.Core.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\bin\Debug\System.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\bin\Debug\System.Xml.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\bin\Debug\System.Net.Http.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\bin\Debug\Mono.Security.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\linksrc\GlockenspielApp.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\linksrc\System.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\HP\Dropbox\Electronica\Source\Arduino\MusicInstrument3\GlockenspielApp\GlockenspielApp\GlockenspielApp\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res.flag
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\bin\Debug\GlockenspielApp.dll
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\bin\Debug\GlockenspielApp.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\bin\Debug\nl.leonvandenbeukel.GlockenspielApp.apk
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\bin\Debug\nl.leonvandenbeukel.GlockenspielApp-Signed.apk
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\GlockenspielApp.nuget.stamp
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\GlockenspielApp.csproj.CoreCompileInputs.cache
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\GlockenspielApp.dll
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\GlockenspielApp.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\android\bin\nl.leonvandenbeukel.GlockenspielApp.apk
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\layout\content_main.xml
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\values\colors.xml
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\values\dimens.xml
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\values\strings.xml
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\values\styles.xml
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\menu\menu_main.xml
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\res\drawable\web_hi_res_512.png
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\R.cs.flag
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\R.txt
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\uploadflags.txt
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\bin\Debug\Mono.Android.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\bin\Debug\mscorlib.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\bin\Debug\System.Core.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\bin\Debug\System.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\bin\Debug\System.Xml.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\bin\Debug\System.Net.Http.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\bin\Debug\Mono.Security.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\linksrc\GlockenspielApp.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\linksrc\System.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\android\assets\GlockenspielApp.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\android\assets\System.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\lvandenbeukel\Dropbox\Electronica\Source\Arduino\Glockenspiel\Android App\obj\Debug\81\android\assets\System.Xml.pdb

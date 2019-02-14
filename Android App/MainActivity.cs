@@ -69,23 +69,21 @@ namespace GlockenspielApp
         private Button _buttonC2;
         private Button _buttonR;
         private Button _buttonCombine;
-        private Button _buttonDemoSong1;
+        private Button _buttonDemoSong1; 
         private Button _buttonDemoSong2;
         private Button _buttonDemoSong3;
         private Button _buttonClear;
         private Button _buttonStopPlaying;
         private Button _buttonUpload;
-        private EditText _editTextBTDevice;
+        private EditText _editTextBtDevice;
         private EditText _editTextMelody;
-        private EditText _editTextBPM;
+        private EditText _editTextBpm;
         private TextView _textViewConnecting;
-        private BluetoothAdapter _bluetoothAdapter = null;
-        private BluetoothSocket _btSocket = null;
-        private Stream _outStream = null;
-        private Stream _inStream = null;
-        private bool _connected = false;
+        private BluetoothAdapter _bluetoothAdapter;
+        private BluetoothSocket _btSocket;
+        private Stream _outStream;
+        private bool _connected;
 
-        public string Address { get; }
         private static readonly UUID MyUuid = UUID.FromString("00001101-0000-1000-8000-00805F9B34FB");
 
         protected override void OnCreate(Bundle savedInstanceState)
@@ -122,9 +120,9 @@ namespace GlockenspielApp
             _buttonClear = FindViewById<Button>(Resource.Id.buttonClear);
             _buttonStopPlaying = FindViewById<Button>(Resource.Id.buttonStop);
             _buttonCombine = FindViewById<Button>(Resource.Id.buttonCombine);
-            _editTextBTDevice = FindViewById<EditText>(Resource.Id.editTextBTDevice);
+            _editTextBtDevice = FindViewById<EditText>(Resource.Id.editTextBTDevice);
             _editTextMelody = FindViewById<EditText>(Resource.Id.editTextMelody);
-            _editTextBPM = FindViewById<EditText>(Resource.Id.editTextBPM);
+            _editTextBpm = FindViewById<EditText>(Resource.Id.editTextBPM);
             _bluetoothAdapter = BluetoothAdapter.DefaultAdapter;
             _textViewConnecting = FindViewById<TextView>(Resource.Id.textViewConnecting);
             _textViewConnecting.Visibility = ViewStates.Invisible;
@@ -146,20 +144,20 @@ namespace GlockenspielApp
             _buttonDemoSong1.Click += (sender, e) =>
             {
                 _editTextMelody.Text = "G,E,E,D,E,G,G,R,A,A,C2,A,A,G,G,R,G,E,E,D,E,G,G,R,A,A,G,C,E,D,C,R,R";
-                _editTextBPM.Text = "84";
+                _editTextBpm.Text = "84";
             };
             _buttonDemoSong2.Click += (sender, e) =>
             {
                 _editTextMelody.Text = "G,E,D,C,D,E,G,E,D,C,D,E,G,E,G,A,E,A,G,E,D,C,R,R";
-                _editTextBPM.Text = "120";
+                _editTextBpm.Text = "120";
             };
             _buttonDemoSong3.Click += (sender, e) =>
             {
                 _editTextMelody.Text = "C+E,R,F+D,F+D,R,E+C,E+C,D,F+D,F+D,R,E+C,E+C,D,F+D,F+D,R,E+C,E+C,R,R,R,E+G,R,F+A,F+A,R,B+G,B+G,R,C2+A,C2+A,R,B+G,B+G,R,A+F,A+F,R,G+E,C+E+G+C2,R,R,R";
-                _editTextBPM.Text = "150";
+                _editTextBpm.Text = "150";
             };
             _buttonClear.Click += (sender, e) => _editTextMelody.Text = string.Empty;
-            _buttonStopPlaying.Click += (sender, e) => WriteData($"{_editTextBPM.Text},0|");
+            _buttonStopPlaying.Click += (sender, e) => WriteData($"{_editTextBpm.Text},0|");
             _buttonUpload.Click += _buttonUpload_Click;
         }
 
@@ -211,7 +209,7 @@ namespace GlockenspielApp
                 }
             }
 
-            WriteData($"{_editTextBPM.Text},{uploadstring.Substring(1)}|");
+            WriteData($"{_editTextBpm.Text},{uploadstring.Substring(1)}|");
         }
 
         private async void _buttonConnect_ClickAsync(object sender, EventArgs e)
@@ -228,7 +226,7 @@ namespace GlockenspielApp
 
             foreach (var item in _bluetoothAdapter.BondedDevices)
             {
-                if (item.Name == _editTextBTDevice.Text)
+                if (item.Name == _editTextBtDevice.Text)
                 {
                     var device = _bluetoothAdapter.GetRemoteDevice(item.Address);
                     _bluetoothAdapter.CancelDiscovery();
@@ -245,7 +243,7 @@ namespace GlockenspielApp
                             Toast.MakeText(this, "Connected to bluetooth device!", ToastLength.Short).Show();
                             _buttonConnect.Text = "Connected";
                             _buttonConnect.SetTextColor(Android.Graphics.Color.DarkGreen);
-                            _editTextBTDevice.Enabled = false;
+                            _editTextBtDevice.Enabled = false;
                             _connected = true;
                             _textViewConnecting.Visibility = ViewStates.Invisible;
                         }
@@ -309,7 +307,7 @@ namespace GlockenspielApp
                         _buttonConnect.Text = "Connect";
                         _buttonConnect.SetTextColor(Android.Graphics.Color.Black);
                         _buttonConnect.Enabled = true;
-                        _editTextBTDevice.Enabled = true;
+                        _editTextBtDevice.Enabled = true;
                         Toast.MakeText(this, "Connection closed...", ToastLength.Short).Show();
                     }
 
